@@ -21,6 +21,7 @@ Tasks (not necessarily in order of importance):
 - [ ] Create basic 1-page website
 - [ ] Host website on the server in our local network
 - [ ] Set up safe access to the website from outside the network
+
 At this point it behooves us to shift our focus to other projects, to serve as actual content to be shown off on that site.
 Further tasks below will have lower priority than working on those other projects.
 - [ ] Expand the website to be more aesthetically pleasing and host more content

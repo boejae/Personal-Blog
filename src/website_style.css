@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #E8B005;
+    color: black;
+    display: grid;
+}
+div.headline {
+    display: block;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 2rem;
+    font-style: bold;
+}
+div.mainpage {
+    background-color: #E8B055;
+    border-color: #FFF000;
+    border-radius: 2rem;
+    border-style: solid;
+    padding: 1rem 1rem 1rem 1rem;
+    margin: auto;
+    gap: 1rem;
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+    font-family: "Tahoma", verdana, sans-serif;
+}
+div.profile-description {
+    display: flex;
+    gap: 1rem;
+    padding: 0rem 0rem 0rem 0rem;
+}
+img {
+    border-radius: 2rem;
+}
+.borderDotted {
+    border-style: dotted;
+    border-color: white;
+    padding: 0rem 1rem 1rem 1rem;
+    margin: 0rem 0rem 0rem 0rem;
+    border-radius: 2rem;
+    opacity: 0.8;
+}
+.borderDashed {
+    border-style: dashed;
+    border-color: white;
+    padding: 0rem 1rem 1rem 1rem;
+    margin: 0rem 0rem 0rem 0rem;
+    border-radius: 2rem;
+    opacity: 0.8;
+}
+p {
+    line-height: 1.5rem;
+    margin: 0rem 0rem 0rem 0rem;
+}
